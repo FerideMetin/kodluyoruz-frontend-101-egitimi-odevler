@@ -1,10 +1,11 @@
 # Patika.dev Ödevler
-Patika.dev'in sunduğu HTML Eğitimi ödevleri ve çalışmaları yer almaktadır. 
 
-## ÖDEV 1
+## 🌱 Patika.dev Başlangıç Seviye Frontend Web Development Patikası HTML Modülünün ödev ve çalışmalarına buradan ulaşabilirsiniz.
+
+### ÖDEV 1
     - Başlık, yorum satırı, paragraf tagleriyle ilgili örnekleri içermektedir.
 
-## ÖDEV 2 
+### ÖDEV 2 
 
 Merhabalar, bu bölümde;
 
@@ -15,7 +16,7 @@ Merhabalar, bu bölümde;
 
 Kullanılan yapılara ait detaylı açıklamalar yorum satırlarında anlatılmaktadır.
 
-## ÖDEV 3
+###  ÖDEV 3
 
 Bu bölümde ise;
 
