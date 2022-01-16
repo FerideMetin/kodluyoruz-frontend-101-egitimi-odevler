@@ -1,2 +1,4 @@
-# kodluyoruz-frontend-101-egitimi-odevler
-Patika ödevleri
+# Patika.dev Ödevler
+Patika.dev'in sunduğu HTML Eğitimi ödevleri ve çalışmaları yer almaktadır. 
+
+
