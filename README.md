@@ -17,3 +17,8 @@ Kullanılan yapılara ait detaylı açıklamalar yorum satırlarında anlatılma
 
 ## ÖDEV 3
 
+Bu bölümde ise;
+
+    - Liste yapıları,
+    - Bir web sitesinin genel yapılarıyla (header, article vb.) ilgili örnekler bulunmaktadır.
+
